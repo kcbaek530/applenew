@@ -197,8 +197,8 @@ margin: 9px 0 0 0;}
 .hero_1_wrap { background-image: url(../img/hero_iphone_12_m.jpg); background-size: 734px 548px;}
 
 .hero_subhead_black { margin: 2px 0 0 0; }
-.hero_price_info {margin: 13.6px auto 0; font-size: 14px; line-height: 22px; width: 140px;  }
-
+.hero_price_info {margin: 13.6px auto 0; font-size: 14px; line-height: 22px; }
+.hero_price_info span {display: block;}
 .hero_link_whitebg { margin: 13.3px 0 0 0;}
 .hero_link_whitebg a {  font-size: 19px; line-height: 25px; margin: 0 14px;}
 
